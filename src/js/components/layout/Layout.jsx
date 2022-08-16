@@ -1,5 +1,5 @@
 import React from "react";
-"../layout/layout.css"
+import"../layout/layout.css"
 
 
 const Layout = (props) => {
