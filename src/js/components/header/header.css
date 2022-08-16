@@ -1,0 +1,14 @@
+.header-area {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 1200px;
+    margin: 20px auto;
+    
+}
+
+.header-area > span {
+    font-size: 20px;
+    font-weight: 600;
+    color: rgb(162, 174, 214);
+}

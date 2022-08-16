@@ -1,0 +1,55 @@
+
+
+.todo-item {
+    width: 270px;
+    height: 150px;
+    border-radius: 20px;
+    border: 4px solid rgb(162, 174, 214);
+    margin: 20px 0 40px 0;
+    padding: 30px;
+}
+
+.todo-item > .item-title{
+    font-size: 25px;
+    font-weight: 600;
+    width: 70px;
+  
+    
+}
+
+.todo-item > .item-body{
+   display: inline-block;
+   margin: 20px 0 30px 0;
+   
+    
+}
+
+.btn-area{
+    display: flex;
+    gap: 15px;
+}
+
+.btn-del {
+    border: 3px solid  rgb(162, 174, 214);
+    background-color:transparent;
+    color: rgb(162, 174, 214);
+    font-weight: 600;
+    font-size: 18px;
+    width: 135px;
+    height: 45px;
+    border-radius: 20px;
+   
+}
+
+
+.btn-complete {
+    border: none;
+    background-color:rgb(162, 174, 214);
+    color: whitesmoke;
+    font-weight: 600;
+    font-size: 18px;
+    width: 135px;
+    height: 45px;
+    border-radius: 20px;
+    margin-right: 10px;
+}
