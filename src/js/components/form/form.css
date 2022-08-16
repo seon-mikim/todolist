@@ -36,6 +36,7 @@
     height: 35px;
     border: none;
     background-color:whitesmoke;
+    text-align: center;
 }
 .input-body {
     border-radius: 20px;
@@ -43,6 +44,7 @@
     height: 35px;
     border: none;
     background-color:whitesmoke;
+    text-align: center;
 }
 
 .input-title:focus{
