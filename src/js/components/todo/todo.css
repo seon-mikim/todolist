@@ -18,7 +18,7 @@
 }
 
 .todo-item > .item-body{
-   display: inline-block;
+   display: block;
    margin: 20px 0 30px 0;
    
     
